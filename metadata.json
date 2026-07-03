@@ -1,0 +1,6 @@
+{
+  "name": "HabitTracker",
+  "description": "Manage your personal habits with notifications, streak counts, progress charts, and gamification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
